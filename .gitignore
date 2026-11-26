@@ -1,0 +1,5 @@
+.DS_Store
+[Dd]esktop.ini
+*.ini
+# over GitHub 100MB limit
+products images/products images/instalive/1.mp4
